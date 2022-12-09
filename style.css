@@ -1,0 +1,17 @@
+
+button {
+    background-color: rgb(93, 80, 80);
+    border: 4px solid rgb(71, 60, 60);
+    border-radius: 9px;
+    font-size: large;
+    padding: 8px 20px;
+    margin: 44vh 45vw 0 45vw;
+    cursor: pointer;
+}
+
+footer{
+    margin: 40vh 38vw 2vh 45vw;
+    font-size: medium;
+    font-weight: bold;
+    font-style:oblique;
+}
